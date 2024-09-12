@@ -34,16 +34,16 @@
         "@ton/ton": ">=13.11.0"
     },
     "dependencies": {
-        "@tact-lang/compiler": "^1.4.0",
+        "@tact-lang/compiler": "^1.4.4",
         "@ton-community/func-js": "^0.7.0",
         "@tonconnect/sdk": "^2.2.0",
         "arg": "^5.0.2",
         "chalk": "^4.1.0",
-        "dotenv": "^16.1.4",
-        "inquirer": "^8.2.5",
+        "dotenv": "^16.4.5",
+        "inquirer": "^8.2.6",
         "qrcode-terminal": "^0.12.0",
         "ton-x": "^2.1.0",
-        "ts-node": "^10.9.1"
+        "ts-node": "^10.9.2"
     },
     "packageManager": "yarn@4.3.1"
 }
